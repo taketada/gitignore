@@ -1,0 +1,22 @@
+# MacOS
+.DS_Store
+
+# Editor
+*.iml
+.idea/
+.vscode/
+
+# npm
+node_modules
+package-lock.json
+npm-debug.log
+
+# Yarn
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+
+# Next.js
+.next
+public
